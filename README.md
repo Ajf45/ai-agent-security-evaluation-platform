@@ -66,6 +66,11 @@ Fetch evaluation results
 
 ---
 
+## Demo Video
+
+https://github.com/user-attachments/assets/8ea83ec0-0d73-492a-9d2f-5ce802df49b8
+
+
 ## Future Improvements
 
 * Frontend dashboard (React)
